@@ -1,0 +1,305 @@
+﻿
+
+/*=============================================================
+    Authour URI: www.xevenTechnologies.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+/* =============================================================
+   CUSTOM STYLE SHEET : BY XevenTechnologies
+    ============================================================ */
+
+
+
+/* =============================================================
+   GENERAL STYLES
+    ============================================================ */
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic);
+/**** Import Google Font ****/
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size:14px;
+    font-weight:400;
+}
+
+/* Loading Image Class Style */
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('images/loading.gif') 50% 50% no-repeat rgb(249,249,249);
+}
+
+
+/* Moving Icon Class Style */
+#movingicon {
+    margin-top:60px;
+    text-align:center;
+     vertical-align:central;
+   color: #ff8c93;
+    font-weight:900;
+    font-size:60px;
+    letter-spacing:3px;
+}
+
+.icon-color{
+    color: #ff8c93;
+}
+
+.subscribe-icon{
+    color:white;
+    margin-right:10px;
+}
+
+/* Social Links Class Style */
+.social-links {
+    text-align:center;
+     vertical-align:central;
+     margin-top:40px;
+     margin-bottom:30px;
+}
+.social-links a {
+    color: #ff8c93;
+    padding-right:10px;
+    text-decoration:none;
+    
+}
+/* Modal Popup Class Style */
+
+.mian-popup-body {
+    padding:5px 20px 20px 20px;
+        font-family: 'PT Sans', sans-serif;
+}
+/* Modal Popup Close Button */
+.back-btn {
+   background-color:#000000;
+}
+
+/* Google Map */
+.mymap {
+    width:100%;
+    height:200px;
+    border:0px;
+
+}
+/* =============================================================
+    BOOTSTRAP COMONETS STYLE CHANGES
+    ============================================================ */
+
+/* Navbar Style Change */
+
+.navbar-inverse {
+        background-color: rgba(255, 255, 255, 0.89);
+    border-color: transparent;
+}
+
+ .navbar-inverse .navbar-nav > li > a {
+        color: #000000;
+ }
+
+   .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+            color: #000;
+ }
+
+
+ .navbar-inverse .navbar-brand {
+        color: #fff;
+ }
+.navbar-brand {
+    font-size:30px;
+    font-weight:900;
+    padding: 0px !important;
+}
+.navbar-brand img {
+    max-width: 100px;
+}
+ /* Modal Popup Style */
+
+ .modal-content {
+    border-radius: 0px;
+    background-color: transparent;
+    background-color: rgba(52, 152, 219, 0.74);
+}
+
+.modal-header {
+    color: white;
+        background-color: rgba(255, 123, 132, 0.89);
+}
+
+    .modal-header h4 {
+        font-weight: 700;
+    }
+
+.modal-body {
+        font-family: 'PT Sans', sans-serif !important;
+    font-weight: 600;
+    font-size: 14px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.48);
+}
+
+.modal-footer {
+    margin-top: 0px;
+    background-color: rgba(253, 147, 154, 0.82);
+}
+
+
+/* =============================================================
+   COUNTDOWN STYLES
+    ============================================================ */
+
+#counter {
+   display: none;
+}
+#counter-default {
+    margin: 20px auto;
+}
+#counter-default .inner {
+    text-align: center;
+    border: none;
+    margin: 8px 0;
+    padding: 8px;
+}
+#counter-default .timer-number {
+    font-size: 100px;
+    margin-bottom: 10px;
+    font-weight: 900;
+    font-family:'Agency FB';
+    color:#fff;
+}
+#counter-default  .timer-text {
+    padding: 10px;
+    font-size:20px;
+    font-weight:800;
+    letter-spacing:5px;
+    color:#fff;
+}
+
+/* =============================================================
+  MEDIA QUERIES
+    ============================================================ */
+
+
+@media (max-width: 487px) {
+    #headLine {
+       font-size:40px;
+    }
+}
+
+/*
+.top-nav {
+    min-height: 100px !important;
+} */
+.top-right {
+        margin-top: 5px;
+}
+
+.top-margin {
+    margin-top: 40px;
+}
+.btn-primary {
+    background-color: #ff8c93 !important;
+    border-color: #fb959b !important;
+}
+.vendor-register {
+    margin-top: 20px;
+}
+.v-2-menu-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.v-2-menu-list li {
+    padding: 5px 5px 0 0 !important;
+    background-color: #f9f9f9;
+    margin: 0 0 30px;
+    position: relative;
+    color: #333;
+}
+.v2-menu-img {
+    position: relative;
+    float: left;
+    margin: 0 20px 0 0;
+    padding: 15px 0px 0px 0px;
+}
+.v2-menu-img img {
+    width: 100%;
+}
+.v2-menu-detail {
+    padding: 30px 0;
+}
+.v2-menu-detail h5 {
+    font-size: 16px;
+    margin: 0 0 10px;
+    color: #686868;
+    font-weight: bold;
+}
+.v2-menu-detail h5 a {
+        color: #686868;
+        text-decoration: none;
+}
+.v-vp a, .v-vp-order a {
+    color: #fff;
+    text-decoration: none;
+}
+.v-vp a:hover, .v-vp-order a:hover, .v2-menu-detail h5 a:hover {
+    color: #f6a0a5;
+}
+.v2-menu-detail p {
+    margin: 0;
+        font-size: 18px;
+    line-height: 24px;
+    text-transform: none;
+    color: #262626;
+}
+.rating-star.vendor-page {
+    display: inline-flex;
+}
+.rating-star {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.rating-star li a {
+    color: #f6a0a5;
+}
+.v-vp {
+    position: absolute;
+    right: 0;
+    font-size: 30px;
+    top: 12px;
+    line-height: 97px;
+    text-align: center;
+    width: 118px;
+    height: 89px;
+    border-left: 1px solid #686868;
+}
+.sm-btn111 {
+    font-size: 12px;
+    background-color: #a93e3e;
+    padding: 5px 10px;
+}
+.v-vp-order {
+    position: absolute;
+    right: 0;
+    font-size: 30px;
+    top: 51px;
+    margin-top: 31px;
+    text-align: center;
+    width: 118px;
+    height: 79px;
+    border-left: 1px solid #686868;
+}
+.sm-btn111 {
+    font-size: 12px;
+    background-color: #a93e3e;
+    padding: 5px 10px;
+}

@@ -1,0 +1,1921 @@
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\FoodChapter.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\EntityFramework.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Spatial.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\WebGrease.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\EntityFramework.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\System.Spatial.xml
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\XevenTechnologies\FoodChapter\.net site\FoodChapter(1)\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\EntityFramework.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Spatial.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\WebGrease.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\EntityFramework.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\System.Spatial.xml
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\EntityFramework.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Spatial.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\WebGrease.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\EntityFramework.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\System.Spatial.xml
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+E:\Projects\Food Chapter Updated\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\FoodChapter.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\EntityFramework.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Spatial.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\WebGrease.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\EntityFramework.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\System.Spatial.xml
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter_AdminPanel\New folder\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\FoodChapter.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\EntityFramework.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Spatial.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\WebGrease.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\EntityFramework.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\System.Spatial.xml
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+E:\FoodChapter\Latest\Hamad\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\EntityFramework.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Spatial.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\WebGrease.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\EntityFramework.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\System.Spatial.xml
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Hamad\New\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\FoodChapter.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\EntityFramework.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Spatial.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\WebGrease.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\EntityFramework.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\System.Spatial.xml
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\FoodChapter.dll.config
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\FoodChapter.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Antlr3.Runtime.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\EntityFramework.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Newtonsoft.Json.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Spatial.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Helpers.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Http.OData.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Mvc.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Optimization.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Providers.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Razor.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.WebPages.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\WebGrease.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\EntityFramework.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Newtonsoft.Json.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Helpers.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Mvc.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Razor.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.WebPages.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Web.Http.OData.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\System.Spatial.xml
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter_AdminPanel\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.pdb
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\FoodChapter.dll.config
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\FoodChapter.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\FoodChapter.pdb
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Antlr3.Runtime.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\EntityFramework.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.Edm.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.OData.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Newtonsoft.Json.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Net.Http.Formatting.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Spatial.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Helpers.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.OData.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.Tracing.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.WebHost.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Mvc.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Optimization.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Providers.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Razor.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Razor.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\WebGrease.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\EntityFramework.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Newtonsoft.Json.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Net.Http.Formatting.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Helpers.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.WebHost.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Mvc.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Razor.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Razor.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.Tracing.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.OData.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.Edm.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.OData.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Spatial.xml
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\de\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\es\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\fr\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\it\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ja\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ko\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\ru\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.dll
+E:\FoodChapter\FC 8-15\FoodChapterold\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\FoodChapter.dll.config
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Antlr3.Runtime.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\EntityFramework.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Newtonsoft.Json.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Spatial.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Helpers.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.OData.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Mvc.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Optimization.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Providers.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Razor.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\WebGrease.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\EntityFramework.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Newtonsoft.Json.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Helpers.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Mvc.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Razor.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Web.Http.OData.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\System.Spatial.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapterold\FoodChapterold\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\EntityFramework.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Spatial.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\WebGrease.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\EntityFramework.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\System.Spatial.xml
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\FoodChapter_AdminPanel\Hamad\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+E:\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+E:\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+E:\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+E:\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+E:\FoodChapter\FoodChapter\bin\FoodChapter.dll
+E:\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+E:\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+E:\FoodChapter\FoodChapter\bin\EntityFramework.dll
+E:\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+E:\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+E:\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\FoodChapter\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+E:\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+E:\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+E:\FoodChapter\FoodChapter\bin\System.Spatial.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+E:\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+E:\FoodChapter\FoodChapter\bin\WebGrease.dll
+E:\FoodChapter\FoodChapter\bin\EntityFramework.xml
+E:\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+E:\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+E:\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+E:\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+E:\FoodChapter\FoodChapter\bin\System.Spatial.xml
+E:\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+E:\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+D:\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\EntityFramework.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Practices.ObjectBuilder.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Spatial.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\WebGrease.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\EntityFramework.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Spatial.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+F:\Ahsan\FoodChapter\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\Joni\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter\FoodChapter 08-11-2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter 09-11-2018 Latest\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\FoodChapter.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\EntityFramework.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Spatial.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\WebGrease.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\EntityFramework.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\System.Spatial.xml
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojAssemblyReference.cache
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.cache
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CoreCompileInputs.cache
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CopyComplete
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+E:\FoodChapter_Junaid\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_31Dec2018\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojResolveAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\WebGrease.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.xml
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.cache
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CoreCompileInputs.cache
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CopyComplete
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+D:\Work\JinnByte\Work\Development\FoodChapter_2Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.Cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CoreCompileInputs.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_4Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CopyComplete
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CoreCompileInputs.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CopyComplete
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_9Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csprojAssemblyReference.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RError.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RGlobal.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.es-es.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.AdminLTE.Texts.RHome.fr-fr.resources
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.GenerateResource.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CoreCompileInputs.cache
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll.config
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\FoodChapter.pdb
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Antlr3.Runtime.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Web.Infrastructure.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Optimization.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Providers.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\WebGrease.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Newtonsoft.Json.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Net.Http.Formatting.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Helpers.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.WebHost.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Mvc.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Deployment.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.WebPages.Razor.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\EntityFramework.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.Tracing.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Web.Http.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.Edm.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\Microsoft.Data.OData.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\System.Spatial.xml
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\de\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\es\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\fr\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\it\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ja\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ko\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ru\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\de\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\es\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\fr\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\it\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ja\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ko\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\ru\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\zh-Hans\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\bin\zh-Hant\System.Spatial.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\es-es\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\fr-fr\FoodChapter.resources.dll
+H:\JinnByte\Junaid\Food Chapter\FoodChapter_10Jan2019\FoodChapter\FoodChapter\obj\Debug\FoodChapter.csproj.CopyComplete

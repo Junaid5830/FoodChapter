@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FoodChapterModelStoreContainer" CdmEntityContainer="FoodChapterEntities">
+    <EntitySetMapping Name="ADMINS">
+      <EntityTypeMapping TypeName="FoodChapterModel.ADMIN">
+        <MappingFragment StoreEntitySet="ADMINS">
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="ADMIN_ID" ColumnName="ADMIN_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_CATEGORIES">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_CATEGORIES">
+        <MappingFragment StoreEntitySet="CAKE_CATEGORIES">
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="CAKE_CATEGORY_ID" ColumnName="CAKE_CATEGORY_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_CUSTOMIZE_DETAIL">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_CUSTOMIZE_DETAIL">
+        <MappingFragment StoreEntitySet="CAKE_CUSTOMIZE_DETAIL">
+          <ScalarProperty Name="FLAVOUR_PRICE" ColumnName="FLAVOUR_PRICE" />
+          <ScalarProperty Name="TIER_WEIGHT" ColumnName="TIER_WEIGHT" />
+          <ScalarProperty Name="TIER_ORDER" ColumnName="TIER_ORDER" />
+          <ScalarProperty Name="CAKE_FLAVOUR_ID" ColumnName="CAKE_FLAVOUR_ID" />
+          <ScalarProperty Name="ORDER_ID" ColumnName="ORDER_ID" />
+          <ScalarProperty Name="CAKE_ID" ColumnName="CAKE_ID" />
+          <ScalarProperty Name="DETAIL_ID" ColumnName="DETAIL_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_EVENTS">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_EVENTS">
+        <MappingFragment StoreEntitySet="CAKE_EVENTS">
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="EVENT_ID" ColumnName="EVENT_ID" />
+          <ScalarProperty Name="CAKE_ID" ColumnName="CAKE_ID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_FLAVORS">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_FLAVORS">
+        <MappingFragment StoreEntitySet="CAKE_FLAVORS">
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="FLAVOR_ID" ColumnName="FLAVOR_ID" />
+          <ScalarProperty Name="CAKE_ID" ColumnName="CAKE_ID" />
+          <ScalarProperty Name="CAKE_FLAVOR_ID" ColumnName="CAKE_FLAVOR_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_TAGS">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_TAGS">
+        <MappingFragment StoreEntitySet="CAKE_TAGS">
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="TAG_NAME" ColumnName="TAG_NAME" />
+          <ScalarProperty Name="CAKE_ID" ColumnName="CAKE_ID" />
+          <ScalarProperty Name="TAG_ID" ColumnName="TAG_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_TIERS">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_TIERS">
+        <MappingFragment StoreEntitySet="CAKE_TIERS">
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="MAX_WEIGHT" ColumnName="MAX_WEIGHT" />
+          <ScalarProperty Name="MIN_WEIGHT" ColumnName="MIN_WEIGHT" />
+          <ScalarProperty Name="TIER_ORDER" ColumnName="TIER_ORDER" />
+          <ScalarProperty Name="CAKE_ID" ColumnName="CAKE_ID" />
+          <ScalarProperty Name="CAKE_TIER_ID" ColumnName="CAKE_TIER_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_TYPES">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_TYPES">
+        <MappingFragment StoreEntitySet="CAKE_TYPES">
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="CAKE_TYPE_ID" ColumnName="CAKE_TYPE_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CATEGORies">
+      <EntityTypeMapping TypeName="FoodChapterModel.CATEGORY">
+        <MappingFragment StoreEntitySet="CATEGORY">
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="CATEGORY_ID" ColumnName="CATEGORY_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EVENTS">
+      <EntityTypeMapping TypeName="FoodChapterModel.EVENT">
+        <MappingFragment StoreEntitySet="EVENTS">
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="EVENT_ID" ColumnName="EVENT_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FLAVORs">
+      <EntityTypeMapping TypeName="FoodChapterModel.FLAVOR">
+        <MappingFragment StoreEntitySet="FLAVOR">
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="FLAVOR_ID" ColumnName="FLAVOR_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ITEM_TYPES">
+      <EntityTypeMapping TypeName="FoodChapterModel.ITEM_TYPES">
+        <MappingFragment StoreEntitySet="ITEM_TYPES">
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ITEM_TYPE_ID" ColumnName="ITEM_TYPE_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ORDER_DETAILS">
+      <EntityTypeMapping TypeName="FoodChapterModel.ORDER_DETAILS">
+        <MappingFragment StoreEntitySet="ORDER_DETAILS">
+          <ScalarProperty Name="DISCOUNT" ColumnName="DISCOUNT" />
+          <ScalarProperty Name="REJECTED_REASON" ColumnName="REJECTED_REASON" />
+          <ScalarProperty Name="IS_REJECTED" ColumnName="IS_REJECTED" />
+          <ScalarProperty Name="IS_DELIVERED" ColumnName="IS_DELIVERED" />
+          <ScalarProperty Name="QUANTITY" ColumnName="QUANTITY" />
+          <ScalarProperty Name="ITEM_TYPE" ColumnName="ITEM_TYPE" />
+          <ScalarProperty Name="ITEM_ID" ColumnName="ITEM_ID" />
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="ORDER_ID" ColumnName="ORDER_ID" />
+          <ScalarProperty Name="ORDER_DETAIL_ID" ColumnName="ORDER_DETAIL_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ORDER_STATUS">
+      <EntityTypeMapping TypeName="FoodChapterModel.ORDER_STATUS">
+        <MappingFragment StoreEntitySet="ORDER_STATUS">
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="ORDER_STATUS_ID" ColumnName="ORDER_STATUS_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCT_TAGS">
+      <EntityTypeMapping TypeName="FoodChapterModel.PRODUCT_TAGS">
+        <MappingFragment StoreEntitySet="PRODUCT_TAGS">
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="TAG_NAME" ColumnName="TAG_NAME" />
+          <ScalarProperty Name="PRODUCT_ID" ColumnName="PRODUCT_ID" />
+          <ScalarProperty Name="TAG_ID" ColumnName="TAG_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUB_CATEGORIES">
+      <EntityTypeMapping TypeName="FoodChapterModel.SUB_CATEGORIES">
+        <MappingFragment StoreEntitySet="SUB_CATEGORIES">
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="CATEGORY_ID" ColumnName="CATEGORY_ID" />
+          <ScalarProperty Name="SUB_CATEGORY_ID" ColumnName="SUB_CATEGORY_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USER_TYPES">
+      <EntityTypeMapping TypeName="FoodChapterModel.USER_TYPES">
+        <MappingFragment StoreEntitySet="USER_TYPES">
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="USER_TYPE_ID" ColumnName="USER_TYPE_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USERS">
+      <EntityTypeMapping TypeName="FoodChapterModel.USER">
+        <MappingFragment StoreEntitySet="USERS">
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="PHONE" ColumnName="PHONE" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="USER_TYPE" ColumnName="USER_TYPE" />
+          <ScalarProperty Name="USER_ID" ColumnName="USER_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VENDOR_CATEGORIES">
+      <EntityTypeMapping TypeName="FoodChapterModel.VENDOR_CATEGORIES">
+        <MappingFragment StoreEntitySet="VENDOR_CATEGORIES">
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="CATEGORY_ID" ColumnName="CATEGORY_ID" />
+          <ScalarProperty Name="VENDOR_CATEGORY_ID" ColumnName="VENDOR_CATEGORY_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VENDOR_REVIEW">
+      <EntityTypeMapping TypeName="FoodChapterModel.VENDOR_REVIEW">
+        <MappingFragment StoreEntitySet="VENDOR_REVIEW">
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="REVIEW" ColumnName="REVIEW" />
+          <ScalarProperty Name="RATING" ColumnName="RATING" />
+          <ScalarProperty Name="CUSTOMER_ID" ColumnName="CUSTOMER_ID" />
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="REVIEW_ID" ColumnName="REVIEW_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="saveMultipleCakes1" FunctionName="FoodChapterModel.Store.saveMultipleCakes" />
+    <FunctionImportMapping FunctionImportName="SP_GET_VENDOR_DETAILS2" FunctionName="FoodChapterModel.Store.SP_GET_VENDOR_DETAILS">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="FoodChapterModel.SP_GET_VENDOR_DETAILS2_Result">
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="FIRST_NAME" ColumnName="FIRST_NAME" />
+          <ScalarProperty Name="MIDDLE_NAME" ColumnName="MIDDLE_NAME" />
+          <ScalarProperty Name="LAST_NAME" ColumnName="LAST_NAME" />
+          <ScalarProperty Name="BUSINESS_ENTITY_NAME" ColumnName="BUSINESS_ENTITY_NAME" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="PERSONAL_PHONE" ColumnName="PERSONAL_PHONE" />
+          <ScalarProperty Name="PRIMARY_WORKSPACE_PHONE" ColumnName="PRIMARY_WORKSPACE_PHONE" />
+          <ScalarProperty Name="SECONDARY_WORKSPACE_PHONE" ColumnName="SECONDARY_WORKSPACE_PHONE" />
+          <ScalarProperty Name="PERSONAL_ADDRESS" ColumnName="PERSONAL_ADDRESS" />
+          <ScalarProperty Name="BUSINESS_ADDRESS" ColumnName="BUSINESS_ADDRESS" />
+          <ScalarProperty Name="CNIC" ColumnName="CNIC" />
+          <ScalarProperty Name="FEATURED" ColumnName="FEATURED" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="PROFILE_IMAGE" ColumnName="PROFILE_IMAGE" />
+          <ScalarProperty Name="DELIVERY" ColumnName="DELIVERY" />
+          <ScalarProperty Name="UNIQUE_ID" ColumnName="UNIQUE_ID" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="IS_APPROVED" ColumnName="IS_APPROVED" />
+          <ScalarProperty Name="APPROVED_BY" ColumnName="APPROVED_BY" />
+          <ScalarProperty Name="APPROVED_ON" ColumnName="APPROVED_ON" />
+          <ScalarProperty Name="CAKES_SPECIALITY" ColumnName="CAKES_SPECIALITY" />
+          <ScalarProperty Name="FOODS_SPECIALITY" ColumnName="FOODS_SPECIALITY" />
+          <ScalarProperty Name="FROZEN_FOODS_SPECIALITY" ColumnName="FROZEN_FOODS_SPECIALITY" />
+          <ScalarProperty Name="DESSERTS_SPECIALITY" ColumnName="DESSERTS_SPECIALITY" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_GET_VENDORS" FunctionName="FoodChapterModel.Store.SP_GET_VENDORS" />
+    <EntitySetMapping Name="ORDERS">
+      <EntityTypeMapping TypeName="FoodChapterModel.ORDER">
+        <MappingFragment StoreEntitySet="ORDERS">
+          <ScalarProperty Name="CUSTOMER_NAME" ColumnName="CUSTOMER_NAME" />
+          <ScalarProperty Name="REJECTED_REASON" ColumnName="REJECTED_REASON" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="FINAL_BILL" ColumnName="FINAL_BILL" />
+          <ScalarProperty Name="TOTAL_DISCOUNT" ColumnName="TOTAL_DISCOUNT" />
+          <ScalarProperty Name="SHIPPING_CHARGES" ColumnName="SHIPPING_CHARGES" />
+          <ScalarProperty Name="TOTAL_AMOUNT" ColumnName="TOTAL_AMOUNT" />
+          <ScalarProperty Name="GREETINGS" ColumnName="GREETINGS" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="CONTACT_NO" ColumnName="CONTACT_NO" />
+          <ScalarProperty Name="ADDRESS" ColumnName="ADDRESS" />
+          <ScalarProperty Name="STATUS_ID" ColumnName="STATUS_ID" />
+          <ScalarProperty Name="CUSTOMER_ID" ColumnName="CUSTOMER_ID" />
+          <ScalarProperty Name="ORDER_ID" ColumnName="ORDER_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCTS">
+      <EntityTypeMapping TypeName="FoodChapterModel.PRODUCT">
+        <MappingFragment StoreEntitySet="PRODUCTS">
+          <ScalarProperty Name="APPROVED_ON" ColumnName="APPROVED_ON" />
+          <ScalarProperty Name="APPROVED_BY" ColumnName="APPROVED_BY" />
+          <ScalarProperty Name="IS_APPROVED" ColumnName="IS_APPROVED" />
+          <ScalarProperty Name="PRODUCT_PHOTO" ColumnName="PRODUCT_PHOTO" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="DELIVERY" ColumnName="DELIVERY" />
+          <ScalarProperty Name="SERVES" ColumnName="SERVES" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="TIME_REQUIRED" ColumnName="TIME_REQUIRED" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="PRODUCT_SUB_CATEGORY_ID" ColumnName="PRODUCT_SUB_CATEGORY_ID" />
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="PRODUCT_ID" ColumnName="PRODUCT_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKES">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE">
+        <MappingFragment StoreEntitySet="CAKES">
+          <ScalarProperty Name="APPROVED_ON" ColumnName="APPROVED_ON" />
+          <ScalarProperty Name="APPROVED_BY" ColumnName="APPROVED_BY" />
+          <ScalarProperty Name="IS_APPROVED" ColumnName="IS_APPROVED" />
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="CAKE_PHOTO" ColumnName="CAKE_PHOTO" />
+          <ScalarProperty Name="ADDITIONAL_PRICE" ColumnName="ADDITIONAL_PRICE" />
+          <ScalarProperty Name="TYPE_ID" ColumnName="TYPE_ID" />
+          <ScalarProperty Name="IS_CUSTOMIZABLE" ColumnName="IS_CUSTOMIZABLE" />
+          <ScalarProperty Name="DELIVERY" ColumnName="DELIVERY" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="ESTIMATED_TIME" ColumnName="ESTIMATED_TIME" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="MAX_TIERS" ColumnName="MAX_TIERS" />
+          <ScalarProperty Name="MIN_TIERS" ColumnName="MIN_TIERS" />
+          <ScalarProperty Name="MAX_WEIGHT" ColumnName="MAX_WEIGHT" />
+          <ScalarProperty Name="MIN_WEIGHT" ColumnName="MIN_WEIGHT" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+          <ScalarProperty Name="CAKE_ID" ColumnName="CAKE_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VENDORS">
+      <EntityTypeMapping TypeName="FoodChapterModel.VENDOR">
+        <MappingFragment StoreEntitySet="VENDORS">
+          <ScalarProperty Name="CNIC_IMAGE" ColumnName="CNIC_IMAGE" />
+          <ScalarProperty Name="APPROVED_ON" ColumnName="APPROVED_ON" />
+          <ScalarProperty Name="APPROVED_BY" ColumnName="APPROVED_BY" />
+          <ScalarProperty Name="IS_APPROVED" ColumnName="IS_APPROVED" />
+          <ScalarProperty Name="IS_ACTIVE" ColumnName="IS_ACTIVE" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="UNIQUE_ID" ColumnName="UNIQUE_ID" />
+          <ScalarProperty Name="DELIVERY" ColumnName="DELIVERY" />
+          <ScalarProperty Name="PROFILE_IMAGE" ColumnName="PROFILE_IMAGE" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="FEATURED" ColumnName="FEATURED" />
+          <ScalarProperty Name="CNIC" ColumnName="CNIC" />
+          <ScalarProperty Name="BUSINESS_ADDRESS" ColumnName="BUSINESS_ADDRESS" />
+          <ScalarProperty Name="PERSONAL_ADDRESS" ColumnName="PERSONAL_ADDRESS" />
+          <ScalarProperty Name="SECONDARY_WORKSPACE_PHONE" ColumnName="SECONDARY_WORKSPACE_PHONE" />
+          <ScalarProperty Name="PRIMARY_WORKSPACE_PHONE" ColumnName="PRIMARY_WORKSPACE_PHONE" />
+          <ScalarProperty Name="PERSONAL_PHONE" ColumnName="PERSONAL_PHONE" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="BUSINESS_ENTITY_NAME" ColumnName="BUSINESS_ENTITY_NAME" />
+          <ScalarProperty Name="LAST_NAME" ColumnName="LAST_NAME" />
+          <ScalarProperty Name="MIDDLE_NAME" ColumnName="MIDDLE_NAME" />
+          <ScalarProperty Name="FIRST_NAME" ColumnName="FIRST_NAME" />
+          <ScalarProperty Name="VENDOR_ID" ColumnName="VENDOR_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EMAIL_DATA">
+      <EntityTypeMapping TypeName="FoodChapterModel.EMAIL_DATA">
+        <MappingFragment StoreEntitySet="EMAIL_DATA">
+          <ScalarProperty Name="MAILED_ON" ColumnName="MAILED_ON" />
+          <ScalarProperty Name="MESSAGE" ColumnName="MESSAGE" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="EMAIL_DATA_ID" ColumnName="EMAIL_DATA_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAKE_IMAGES">
+      <EntityTypeMapping TypeName="FoodChapterModel.CAKE_IMAGES">
+        <MappingFragment StoreEntitySet="CAKE_IMAGES">
+          <ScalarProperty Name="ORDER_ID" ColumnName="ORDER_ID" />
+          <ScalarProperty Name="IMAGE_PATH" ColumnName="IMAGE_PATH" />
+          <ScalarProperty Name="CAKE_ID" ColumnName="CAKE_ID" />
+          <ScalarProperty Name="CAKE_IMAGE_ID" ColumnName="CAKE_IMAGE_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

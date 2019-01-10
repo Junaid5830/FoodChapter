@@ -1,0 +1,31 @@
+.form-control.drp-dwn {
+    height: 48px !important;
+	}
+	
+.form-holder.vendor-registration {
+    display: table !important;
+    padding: 19px 0 30px 0px;
+    background: #f7f7f7;
+    position: relative;
+    width: 813px;
+    margin: 0 auto;
+}
+.p-l{
+	padding-left:0px !important;
+}
+.p-r{
+	padding-right: 0px !important;
+}
+.placeorder-background{
+	display: table;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(../img/Meat_wallpaper_2560x1440.jpg);
+    background-size: cover;
+    width: 100%;
+}
+.placeorder-mask{
+	width: 100%;
+    float: left;
+    background-color: rgba(0,0,0,.7);
+}

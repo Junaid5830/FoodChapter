@@ -1,0 +1,199 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="FoodChapter.Layout" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="Frontend/css/style.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="Frontend/slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="Frontend/slick/slick-theme.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- for nav -->
+  <link rel="stylesheet" type="text/css" href="Frontend/css/nav.css" />
+
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="Frontend/slick/slick.min.js"></script>
+  <script type="text/javascript" src="Frontend/js/custom.js"></script>
+  <script type="text/javascript" src="Frontend/js/nav.js"></script>
+
+
+  <style>
+    .slider {
+      width: 100%;
+      margin: 0 auto;
+    }
+  </style>
+
+
+
+  <title>Food Chapter</title>
+  <asp:ContentPlaceHolder ID="head" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+  </asp:ContentPlaceHolder>
+</head>
+<body>
+  <%--<canvas id="overlay"></canvas>--%>
+  <div class="my_header_wrap">
+    <div class="header_container">
+      <div class="my_header">
+        <div class="my_header_1">
+				<div class="top_left col-md-4 col-sm-4 col-xsm-12">
+					<a href="https://www.facebook.com/" target="_blank"><img title="Facebook" src="Frontend/images/header_fb.png" alt="Facebook" /></a>
+					
+					<a href="https://www.instagram.com/" target="_blank"><img title="Instagram" src="Frontend/images/header_insta.png" alt="Insta" /></a>
+					
+					
+				</div>
+				<div class="top_right col-md-4 col-sm-7">
+					<div class="tr1">
+					<span class="fa fa-star checked hm_fa_star"></span>								
+					<span class="fa fa-star checked hm_fa_star"></span>
+					<span class="fa fa-star checked hm_fa_star"></span>
+					<span class="fa fa-star checked hm_fa_star"></span>
+					<span class="fa fa-star hm_fa_star"></span>
+					<span class="stext">(93)</span>
+					</div>
+					<div class="tr3">
+					<a href="4_Contact.aspx" class="my-tel"><img title="call" src="Frontend/images/call.png" alt="call" />+92 345 7890</a>
+                    </div>
+					<a style="padding-top:3px;" href="6_Login.aspx">LOGIN</a>
+					
+				</div>
+			</div>
+
+
+
+        <div class="my_header_2 col-md-12 col-sm-12" id="navbar">
+			    <div class="col-md-2 navbar_1">
+			        <nav id="navbar1">
+                      <ul>
+                        <li><a href="1_Home.aspx">HOME</a></li>
+						<li><a href="2_gallery.aspx">GALLERY</a></li>
+						<li><a href="3_Vendors.aspx">SELLERS</a></li>
+						<li><a href="4_Contact.aspx">CONTACT US</a></li>
+						<li><a href="7_SellerRegister.aspx">REGISTER</a></li>
+                      </ul>
+                  </nav>
+
+                    <div id="menu-toggle" data-menu="closed">
+                      <a href="#"><i class="fa fa-bars"></i></a>
+                    </div>
+                    <div id="header">
+                      <h1></h1>
+                    </div>
+			        
+			    </div> 
+		
+				<div class="logo col-md-2 col-sm-2 col-xsm-4 .offset-2">
+					<a href="1_home.aspx"><img title="Logo" class="img-responsive" src="Frontend/images/header_logo.png" alt="logo" /></a>
+				</div>
+			    
+			    <div class="my-navbar-right col-md-2 col-sm-3">
+					<a href="#" ><img title="search this site" src="Frontend/images/search.png" alt="search" /></a>
+					<a href="5_cart.aspx" id="cartCount"><img title="" src="Frontend/images/cart.png" alt="cart" /></a>
+				</div>
+				
+                <nav class="navbar navbar-inverse col-md-9 col-sm-9">
+                  <div class="container-fluid1 col-md-8 col-sm-10">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span> 
+                      </button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                      <ul class="nav navbar-nav">
+                        <li><a href="1_Home.aspx">HOME</a></li>
+						<li><a href="2_gallery.aspx">GALLERY</a></li>
+						<li><a href="3_Vendors.aspx">SELLERS</a></li>
+						<li><a href="4_Contact.aspx">CONTACT US</a></li>
+						<li><a href="7_SellerRegister.aspx">REGISTER</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </nav>
+             </div>
+      </div>
+    </div>
+  </div>
+
+  <%--header html above this line--%>
+
+ 
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      </asp:ContentPlaceHolder>
+ 
+
+  <footer>
+    <div class="footer_section">
+      <div class="s_footer">
+        <div class="my_footer col-md-12">
+          <div class="footer_wrap">
+            <div class="my_footer_col1 col-md-3 col-sm-12">
+              <a href="1_Home.aspx">
+                <img src="Frontend/images/footer_logo.png" class="img-responsive"></a>
+            </div>
+
+            <div class="my_footer_col2 col-md-3 col-sm-4 col-xsm-12">
+              <h3>Don't be shy, say food!</h3>
+              <span>Pk: +92 312 4071367</span>
+              <br>
+              <span>info@foodchapter.com</span>
+            </div>
+
+            <div class="my_footer_col3 col-md-3 col-sm-4 col-xsm-12">
+              <h2>Quick Links</h2>
+              <a href="1_Home.aspx">Home</a>
+              <br>
+              <a href="3_Vendors.aspx">Sellers</a>
+              <br>
+              <a href="4_Contact.aspx">Contact us</a>
+              <br>
+              <a style="color: #790102;" href="7_SellerRegister.aspx">REGISTER</a>
+              <br />
+            </div>
+
+            <div class="my_footer_col4 col-md-3 col-sm-4 col-xsm-12">
+              <h2>Follow us</h2>
+              <a href="https://www.facebook.com/" target="_blank">
+                <img title="Facebook" src="Frontend/images/footer_fb.png" alt="Facebook" /></a>
+              
+              <a href="https://www.instagram.com/" target="_blank">
+                <img title="Instagram" src="Frontend/images/footer_insta.png" alt="Insta" /></a>
+             
+
+            </div>
+
+          </div>
+        </div>
+        <div class="my_footer_cp col-md-12">
+          <div class="cp_wrap">
+            <div class="cp_content">
+              <hr>
+              <span>© 2017 JINNBYTE. All rights reserved. Privacy Policy(Terms & Conditions)</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+  <%--add footer html--%>
+</body>
+</html>

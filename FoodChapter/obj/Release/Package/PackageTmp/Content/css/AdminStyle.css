@@ -1,0 +1,25 @@
+﻿.rlabel {
+  font-size: 17px;
+    font-family: 'Lato',sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.rlabel1 {
+font-size: 17px;
+    font-family: 'Lato',sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 12px;}
+
+.rselect {
+  width:300px;
+}
+.rinput {
+  float:left !important;
+}
+.rbtn {
+  float: right;
+    margin: 0 30px;
+    height: 34px;
+}

@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Login.master.cs" Inherits="FoodChapter.MasterPages.Login" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <link href="~/Css/bootstrap.css" rel="stylesheet" />
+		<!-- Website Font style -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"/>
+        <link href="../Assets/css/Login_page.css" rel="stylesheet" />
+		<!-- Fonts -->
+		<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'/>
+		<link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'/>
+
+    <div class="container" >
+        <div class="row main">
+            <div class="panel-title text-center">
+                    <div class="col-md-9 col-md-offset-4">
+                        <img src="../Images/Logo.png"  class="img-responsive" height="300" width="380"/>
+                   </div> 
+                </div>
+        </div>
+    </div>  
+    
+</head>
+<body>
+   <div class="main-login main-center">
+        
+        <form id="formLogin">
+            <div class="form-group">
+                        <label for="username" class="cols-sm-2 control-label">Username</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>                            
+                                <asp:TextBox ID="txtLoginEmail" runat="server" class="form-control" autocomplete="off" placeholder="Enter your Username"></asp:TextBox>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password" class="cols-sm-2 control-label">Password</label>
+                        <div class="cols-sm-10">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
+                                <asp:TextBox ID="txtPassword" runat="server" class="form-control" TextMode="Password"  placeholder="Enter your Password" ></asp:TextBox> </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group ">                                            
+                        <asp:Button ID="btnLogin" runat="server" Text="Login" CssClass="btn btn-primary btn-lg btn-block login-button" />
+                    </div>
+        </form>        
+                    
+                   
+                
+    </div>
+
+    <script>
+
+        $(document).ready(function () {
+            $("#formLogin").on('submit', function (e) {
+                var email = document.getElementById("txtLoginEmail").value;
+                var password = document.getElementById("txtLoginPassword").value;
+                var user = {
+
+                    "EMAIL": email,
+                    "PASSWORD": password
+                };
+
+                $.ajax({
+                    url: '/api/User/authenticateUser',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    dataType: 'json',
+                    data: JSON.stringify(user),
+                    statusCode: {
+                        200: function () { location.href = "Vendors.aspx"; },
+                        401: function () {
+                            document.getElementById("lblMessage").innerHTML = "Unable to logged in.";
+                            document.getElementById("lblMessage").style.color = 'red';
+                        }
+                    },
+                    jsonp: 'jsonp'
+                });
+                event.preventDefault();
+            });
+        });
+    </script>
+
+</body>
+</html>

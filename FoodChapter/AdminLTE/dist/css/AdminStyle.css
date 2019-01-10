@@ -1,0 +1,38 @@
+﻿.rlabel {
+  font-size: 16px;
+    font-family: 'Lato',sans-serif;
+    font-weight: bold;
+    letter-spacing:2px;
+    padding-top:5px;
+}
+.rplus {
+text-transform:uppercase;
+margin-bottom: 5px !important;
+}
+.rnp {
+  padding-top:0px;
+}
+.rchb {
+margin-top:5px !important;
+}
+.rimg {
+margin-top:16px;
+}
+.rinput {
+float:left;
+}
+.rbtn {
+margin-left:35px;
+}
+.rpanel {
+    height: 100px;
+    width: 390px;
+    margin:0 15px;
+}
+.rpanel1 {
+  margin:0 40px !important;
+}
+.rrb {
+  float:left;
+  left:0;
+}

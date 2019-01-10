@@ -1,0 +1,386 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Vendor.master.cs" Inherits="FoodChapter.MasterPages.Vendor" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.7 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FoodChapter</title>
+    <style>
+        #loadingScreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 2043;
+            background-color: #ffffff;
+            opacity: 0.7;
+            display: none;
+        }
+
+        .loadingIcon {
+            display: block;
+            margin: auto;
+            margin-top: 200px !important;
+            /*border: 7px solid gray;*/
+            border-radius: 6px;
+        }
+
+        .form-group > .col-md-12 {
+            margin-bottom: 20px;
+        }
+
+        .select2-container--default .select2-results__option--highlighted[aria-selected] {
+            background-color: yellowgreen;
+            color: white;
+        }
+
+        .Validation-color {
+            color: red;
+        }
+
+        .box {
+            border-top: 3px solid #ff4701 !important;
+        }
+
+        .sidebar {
+            overflow-y: scroll !important;
+            background-color: #350102;
+        }
+
+        ::-webkit-scrollbar {
+            width: 12px; /* for vertical scrollbars */
+            height: 12px; /* for horizontal scrollbars */
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #350102;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: rgba(232, 198, 35, 0.96);
+        }
+
+        .skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a, .skin-blue .sidebar-menu > li.menu-open > a {
+            color: #1e282c !important;
+            background: #fff !important;
+        }
+    </style>
+    <link rel="stylesheet" href="AdminLTE/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="AdminLTE/bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="AdminLTE/bower_components/Ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="AdminLTE/bower_components/select2/dist/css/select2.min.css">
+    <link rel="stylesheet" href="AdminLTE/dist/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="AdminLTE/Styles/site.css">
+    <link rel="stylesheet" href="AdminLTE/dist/css/skins/_all-skins.min.css">
+    <link rel="stylesheet" href="AdminLTE/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+    <link rel="stylesheet" href="AdminLTE/bower_components/bootstrap-daterangepicker/daterangepicker.css">
+    <link rel="stylesheet" href="AdminLTE/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
+    <link rel="stylesheet" href="AdminLTE/bower_components/jvectormap/jquery-jvectormap.css">
+    <%--<link rel="stylesheet" href="AdminLTE/bower_components/morris.css">--%>
+    <link rel="stylesheet" href="AdminLTE/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
+    <link rel="stylesheet" href="AdminLTE/plugins/iCheck/all.css">
+
+    <script src="AdminLTE/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="AdminLTE/bower_components/jquery-ui/jquery-ui.min.js"></script>
+    <script src="AdminLTE/bower_components/moment/min/moment.min.js"></script>
+    <script src="AdminLTE/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="AdminLTE/bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+    <script src="AdminLTE/bower_components/fastclick/lib/fastclick.js"></script>
+    <script src="AdminLTE/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="AdminLTE/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="AdminLTE/Scripts/multiLanguajeDemo.js"></script>
+
+
+
+    <script src="AdminLTE/Scripts/jquery.validate-vsdoc.js"></script>
+    <script src="AdminLTE/Scripts/respond.js"></script>
+
+    <script src="AdminLTE/dist/js/adminlte.min.js"></script>
+    <script src="AdminLTE/dist/js/demo.js"></script>
+    <script src="AdminLTE/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+    <script src="AdminLTE/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+    <script src="AdminLTE/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+    <script src="AdminLTE/plugins/iCheck/icheck.min.js"></script>
+    <%--<script src="AdminLTE/dist/js/pages/dashboard.js"></script>--%>
+    <script src="AdminLTE/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+    <script src="AdminLTE/bower_components/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+    <script src="AdminLTE/bower_components/jquery-knob/dist/jquery.knob.min.js"></script>
+    <script src="AdminLTE/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+    <script src="AdminLTE/bower_components/raphael/raphael.min.js"></script>
+    <%--<script src="AdminLTE/bower_components/morris.js"></script>--%>
+    <script src="AdminLTE/bower_components/select2/dist/js/select2.full.min.js"></script>
+
+    <script src="AdminLTE/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="AdminLTE/Scripts/jquery.validate.min.js"></script>
+    <script src="AdminLTE/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+</head>
+  <asp:ContentPlaceHolder ID="head" runat="server">
+
+
+        
+    
+    
+    
+    
+    
+    
+    </asp:ContentPlaceHolder>
+</head>
+  <body class="hold-transition skin-blue fixed sidebar-mini">
+    <!-- Site wrapper -->
+    <div id="loadingScreen">
+        <img class="loadingIcon" src="AdminLTE/ajaxLoader.gif" />
+  
+    </div>
+    <div class="wrapper">
+        <header class="main-header">
+            <a class="logo">
+                <!-- mini logo for sidebar mini 50x50 pixels -->
+                <span class="logo-mini"></span>
+                <!-- logo for regular state and mobile devices -->
+                <span class="logo-lg"><b>FoodChapter</b>Admin</span>
+            </a>
+
+            <nav class="navbar navbar-static-top">
+                <!-- Sidebar toggle button-->
+                <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav">
+        
+                        <!-- User Account: style can be found in dropdown.less -->
+                        <li class="dropdown user user-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <img src="AdminLTE/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
+                                <span class="hidden-xs">Super Admin</span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <!-- User image -->
+                                <li class="user-header">
+                                    <img src="AdminLTE/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                    <p>
+                                      
+                                        <small></small>
+                                    </p>
+                                </li>
+                                <li class="user-footer">
+                                    <div class="pull-left">
+                                        <a href="#" class="btn btn-default btn-flat">Profile</a>
+                                    </div>
+                                    <div class="pull-right">
+                                        <a href="javascript:void(0)" class="load_page btn btn-default btn-flat">Sign out</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <!-- Control Sidebar Toggle Button -->
+                      
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <!-- =============================================== -->
+        <!-- Left side column. contains the sidebar -->
+
+        <aside class="main-sidebar">
+            <!-- sidebar: style can be found in sidebar.less -->
+            <section class="sidebar">
+                <!-- Sidebar user panel -->
+                <div class="user-panel">
+                    <div class="pull-left image">
+                        <img src="AdminLTE/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                    </div>
+                    <div class="pull-left info">
+                        <p>Super Admin</p>
+                        <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+                    </div>
+                </div>
+                <!-- search form -->
+                <form action="#" method="get" class="sidebar-form">
+                    <div class="input-group">
+                        <input type="text" name="q" class="form-control" placeholder="Search...">
+                        <span class="input-group-btn">
+                            <button type="submit" name="search" id="search-btn" class="btn btn-flat">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </span>
+                    </div>
+                </form>
+               
+                <ul class="sidebar-menu" data-widget="tree">
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-dashboard"></i> <span>Dashboard</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="admindashboard.aspx"  class="load_page"><i class="fa fa-circle-o"></i> Dashboard </a></li>
+                        </ul>
+                    </li>
+                   
+                        <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-male"></i>
+                                <span> Vendor Management</span>
+                                <span class="pull-right-container">
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </span>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="Admin_vendor.aspx"><i class="fa fa-circle-o"></i>Admin Sellers </a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-user"></i> <span>User Management</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="Admin_User.aspx"><i class="fa fa-circle-o"></i> Admin User </a></li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-male"></i>
+                            <span>Customers Management</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="Admin_Foodies.aspx"><i class="fa fa-circle-o"></i> Admin Foodies </a></li>
+                        </ul>
+                    </li>
+                 <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-cubes"></i>
+                            <span>Products Management</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="Admin_CakeList.aspx"><i class="fa fa-circle-o"></i> Manage Cakes </a></li>
+                           <li><a href="Admin_ProductList.aspx"><i class="fa fa-circle-o"></i> Manage Foods</a></li>
+                        </ul>
+                    </li>
+
+                  <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-truck"></i>
+                                <span> Order Management</span>
+                                <span class="pull-right-container">
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </span>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="Admin_PendingOrder.aspx"><i class="fa fa-circle-o"></i>Pending Orders </a></li>
+                              <li><a href="Admin_CompleteOrder.aspx"><i class="fa fa-circle-o"></i>Complete Orders </a></li>
+                              <li><a href="Admin_RejectedOrder.aspx"><i class="fa fa-circle-o"></i>Rejected Orders </a></li>
+                                
+                            </ul>
+                        </li>
+                     <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th-list"></i>
+                            <span>Categories</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="Categories.aspx"><i class="fa fa-circle-o"></i>Manage Categories</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+            <!-- /.sidebar -->
+        </aside>
+       <div class="content-wrapper" style="padding-top:0px !important;">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                    
+                  <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+            </section>
+            <!-- /.content -->
+        </div>
+        <footer class="main-footer" style="padding-bottom:1px;">
+            <div class="pull-right hidden-xs">
+                <b>Version</b> 2.4.0
+            </div>
+            <strong>Copyright &copy; 2018-2019 <a href="#">Food Chapter</a>.</strong> All rights
+            reserved.
+        </footer>
+        <div class="control-sidebar-bg"></div>
+    </div>
+    <!-- ./wrapper -->
+
+    <script>
+
+       // $(".load_page").click(function () {
+       //     $('.treeview').removeClass('active')
+       //     $(this).closest('.treeview').addClass("active");
+       //     var ControllerTempName = $(this).attr("controller");
+       //     var MethodTempName = $(this).attr("method");
+       //     window.location.href = '/' + ControllerTempName + '/' + MethodTempName;
+
+       // });
+       //$(".load_page").click(function () {
+       //     debugger;
+       //     var ControllerTempName = $(this).attr("controller");
+       //     var MethodTempName = $(this).attr("method");
+       //     $(".load_page").parent().removeClass("active");
+       //     $(this).parent().addClass("active");
+       //     $.ajax({
+       //         type: "GET",
+       //         url: '@Url.Action("LoadPage", "DoctorDashboard")',
+       //         data: { ControllerName: ControllerTempName, MethodName: MethodTempName },
+       //         beforeSend: function () {
+       //             $("#loadingScreen").css("display", "block");
+       //         },
+       //         success: function (data) {
+       //             debugger;
+       //             $("#loadingScreen").css("display", "none");
+       //             $("#pageContents").empty();
+       //             var url = "/" + ControllerTempName + "/" + MethodTempName;
+       //             changeURL("", url, MethodTempName, ControllerTempName);
+       //             $("#pageContents").html(data);
+       //             //$("form").removeData("validator");
+       //             //$("form").removeData("unobtrusiveValidation");
+       //             //$.validator.unobtrusive.parse("form");
+       //         },
+       //         error: function (res) {
+       //             AjaxFailure(res);
+       //         }
+       //     });
+       // });
+       // function changeURL(response, urlPath, Method, Controller) {
+       //     document.title = Method;
+       //     window.history.pushState({ "html": response, "Method": Method, "Controller": Controller }, "", urlPath);
+       // }
+    </script>
+</body>
+</html>
+

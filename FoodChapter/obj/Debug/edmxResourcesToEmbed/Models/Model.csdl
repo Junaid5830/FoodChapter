@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FoodChapterModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="FoodChapterEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ADMINS" EntityType="FoodChapterModel.ADMIN" />
+    <EntitySet Name="CAKE_CATEGORIES" EntityType="FoodChapterModel.CAKE_CATEGORIES" />
+    <EntitySet Name="CAKE_CUSTOMIZE_DETAIL" EntityType="FoodChapterModel.CAKE_CUSTOMIZE_DETAIL" />
+    <EntitySet Name="CAKE_EVENTS" EntityType="FoodChapterModel.CAKE_EVENTS" />
+    <EntitySet Name="CAKE_FLAVORS" EntityType="FoodChapterModel.CAKE_FLAVORS" />
+    <EntitySet Name="CAKE_IMAGES" EntityType="FoodChapterModel.CAKE_IMAGES" />
+    <EntitySet Name="CAKE_TAGS" EntityType="FoodChapterModel.CAKE_TAGS" />
+    <EntitySet Name="CAKE_TIERS" EntityType="FoodChapterModel.CAKE_TIERS" />
+    <EntitySet Name="CAKE_TYPES" EntityType="FoodChapterModel.CAKE_TYPES" />
+    <EntitySet Name="CAKES" EntityType="FoodChapterModel.CAKE" />
+    <EntitySet Name="CATEGORies" EntityType="FoodChapterModel.CATEGORY" />
+    <EntitySet Name="EMAIL_DATA" EntityType="FoodChapterModel.EMAIL_DATA" />
+    <EntitySet Name="EVENTS" EntityType="FoodChapterModel.EVENT" />
+    <EntitySet Name="FLAVORs" EntityType="FoodChapterModel.FLAVOR" />
+    <EntitySet Name="INQUIRies" EntityType="FoodChapterModel.INQUIRY" />
+    <EntitySet Name="INQUIRY_TYPE" EntityType="FoodChapterModel.INQUIRY_TYPE" />
+    <EntitySet Name="ITEM_TYPES" EntityType="FoodChapterModel.ITEM_TYPES" />
+    <EntitySet Name="ORDER_DETAILS" EntityType="FoodChapterModel.ORDER_DETAILS" />
+    <EntitySet Name="ORDER_STATUS" EntityType="FoodChapterModel.ORDER_STATUS" />
+    <EntitySet Name="ORDERS" EntityType="FoodChapterModel.ORDER" />
+    <EntitySet Name="PRODUCT_TAGS" EntityType="FoodChapterModel.PRODUCT_TAGS" />
+    <EntitySet Name="PRODUCTS" EntityType="FoodChapterModel.PRODUCT" />
+    <EntitySet Name="SUB_CATEGORIES" EntityType="FoodChapterModel.SUB_CATEGORIES" />
+    <EntitySet Name="USER_TYPES" EntityType="FoodChapterModel.USER_TYPES" />
+    <EntitySet Name="USERS" EntityType="FoodChapterModel.USER" />
+    <EntitySet Name="VENDOR_CATEGORIES" EntityType="FoodChapterModel.VENDOR_CATEGORIES" />
+    <EntitySet Name="VENDOR_REVIEW" EntityType="FoodChapterModel.VENDOR_REVIEW" />
+    <EntitySet Name="VENDORS" EntityType="FoodChapterModel.VENDOR" />
+    <AssociationSet Name="FK_CAKES_TYPES" Association="FoodChapterModel.FK_CAKES_TYPES">
+      <End Role="CAKE_CATEGORIES" EntitySet="CAKE_CATEGORIES" />
+      <End Role="CAKE" EntitySet="CAKES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CAKE_EVENTS_CAKES" Association="FoodChapterModel.FK_CAKE_EVENTS_CAKES">
+      <End Role="CAKE" EntitySet="CAKES" />
+      <End Role="CAKE_EVENTS" EntitySet="CAKE_EVENTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CAKE_EVENTS_EVENTS" Association="FoodChapterModel.FK_CAKE_EVENTS_EVENTS">
+      <End Role="EVENT" EntitySet="EVENTS" />
+      <End Role="CAKE_EVENTS" EntitySet="CAKE_EVENTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CAKE_FLAVORS_CAKES" Association="FoodChapterModel.FK_CAKE_FLAVORS_CAKES">
+      <End Role="CAKE" EntitySet="CAKES" />
+      <End Role="CAKE_FLAVORS" EntitySet="CAKE_FLAVORS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CAKE_FLAVORS_FLAVOR" Association="FoodChapterModel.FK_CAKE_FLAVORS_FLAVOR">
+      <End Role="FLAVOR" EntitySet="FLAVORs" />
+      <End Role="CAKE_FLAVORS" EntitySet="CAKE_FLAVORS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CAKE_TAGS_CAKES" Association="FoodChapterModel.FK_CAKE_TAGS_CAKES">
+      <End Role="CAKE" EntitySet="CAKES" />
+      <End Role="CAKE_TAGS" EntitySet="CAKE_TAGS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CAKE_TIERS_CAKES" Association="FoodChapterModel.FK_CAKE_TIERS_CAKES">
+      <End Role="CAKE" EntitySet="CAKES" />
+      <End Role="CAKE_TIERS" EntitySet="CAKE_TIERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CAKES_VENDORS" Association="FoodChapterModel.FK_CAKES_VENDORS">
+      <End Role="VENDOR" EntitySet="VENDORS" />
+      <End Role="CAKE" EntitySet="CAKES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SUB_CATEGORIES_CATEGORY" Association="FoodChapterModel.FK_SUB_CATEGORIES_CATEGORY">
+      <End Role="CATEGORY" EntitySet="CATEGORies" />
+      <End Role="SUB_CATEGORIES" EntitySet="SUB_CATEGORIES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ORDER_DETAILS_ITEM_TYPES" Association="FoodChapterModel.FK_ORDER_DETAILS_ITEM_TYPES">
+      <End Role="ITEM_TYPES" EntitySet="ITEM_TYPES" />
+      <End Role="ORDER_DETAILS" EntitySet="ORDER_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ORDER_DETAILS_ORDER" Association="FoodChapterModel.FK_ORDER_DETAILS_ORDER">
+      <End Role="ORDER" EntitySet="ORDERS" />
+      <End Role="ORDER_DETAILS" EntitySet="ORDER_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PRODUCT_TAGS_PRODUCTS" Association="FoodChapterModel.FK_PRODUCT_TAGS_PRODUCTS">
+      <End Role="PRODUCT" EntitySet="PRODUCTS" />
+      <End Role="PRODUCT_TAGS" EntitySet="PRODUCT_TAGS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PRODUCTS_PRODUCT_SUB_CATEGORY" Association="FoodChapterModel.FK_PRODUCTS_PRODUCT_SUB_CATEGORY">
+      <End Role="SUB_CATEGORIES" EntitySet="SUB_CATEGORIES" />
+      <End Role="PRODUCT" EntitySet="PRODUCTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PRODUCTS_VENDORS" Association="FoodChapterModel.FK_PRODUCTS_VENDORS">
+      <End Role="VENDOR" EntitySet="VENDORS" />
+      <End Role="PRODUCT" EntitySet="PRODUCTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_USERS_USER_TYPES" Association="FoodChapterModel.FK_USERS_USER_TYPES">
+      <End Role="USER_TYPES" EntitySet="USER_TYPES" />
+      <End Role="USER" EntitySet="USERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VENDOR_CATEGORIES_VENDORS" Association="FoodChapterModel.FK_VENDOR_CATEGORIES_VENDORS">
+      <End Role="VENDOR" EntitySet="VENDORS" />
+      <End Role="VENDOR_CATEGORIES" EntitySet="VENDOR_CATEGORIES" />
+    </AssociationSet>
+    <FunctionImport Name="SP_GET_VENDOR_DETAILS" ReturnType="Collection(FoodChapterModel.SP_GET_VENDOR_DETAILS_Result)">
+      <Parameter Name="vendorId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_GET_VENDORS">
+      <Parameter Name="key" Mode="In" Type="String" />
+      <Parameter Name="all" Mode="In" Type="Boolean" />
+      <Parameter Name="cake" Mode="In" Type="Boolean" />
+      <Parameter Name="food" Mode="In" Type="Boolean" />
+      <Parameter Name="dessert" Mode="In" Type="Boolean" />
+      <Parameter Name="frozen" Mode="In" Type="Boolean" />
+      <Parameter Name="delivery" Mode="In" Type="Boolean" />
+      <Parameter Name="page" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="ADMIN">
+    <Key>
+      <PropertyRef Name="ADMIN_ID" />
+    </Key>
+    <Property Name="ADMIN_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EMAIL" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="CAKE_CATEGORIES">
+    <Key>
+      <PropertyRef Name="CAKE_CATEGORY_ID" />
+    </Key>
+    <Property Name="CAKE_CATEGORY_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CAKES" Relationship="FoodChapterModel.FK_CAKES_TYPES" FromRole="CAKE_CATEGORIES" ToRole="CAKE" />
+  </EntityType>
+  <EntityType Name="CAKE_CUSTOMIZE_DETAIL">
+    <Key>
+      <PropertyRef Name="DETAIL_ID" />
+    </Key>
+    <Property Name="DETAIL_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CAKE_ID" Type="Int32" />
+    <Property Name="ORDER_ID" Type="Int32" />
+    <Property Name="CAKE_FLAVOUR_ID" Type="Int32" />
+    <Property Name="TIER_ORDER" Type="Int32" />
+    <Property Name="TIER_WEIGHT" Type="Int32" />
+    <Property Name="FLAVOUR_PRICE" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CAKE_EVENTS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CAKE_ID" Type="Int32" />
+    <Property Name="EVENT_ID" Type="Int32" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <NavigationProperty Name="CAKE" Relationship="FoodChapterModel.FK_CAKE_EVENTS_CAKES" FromRole="CAKE_EVENTS" ToRole="CAKE" />
+    <NavigationProperty Name="EVENT" Relationship="FoodChapterModel.FK_CAKE_EVENTS_EVENTS" FromRole="CAKE_EVENTS" ToRole="EVENT" />
+  </EntityType>
+  <EntityType Name="CAKE_FLAVORS">
+    <Key>
+      <PropertyRef Name="CAKE_FLAVOR_ID" />
+    </Key>
+    <Property Name="CAKE_FLAVOR_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CAKE_ID" Type="Int32" Nullable="false" />
+    <Property Name="FLAVOR_ID" Type="Int32" Nullable="false" />
+    <Property Name="PRICE" Type="Int32" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <NavigationProperty Name="CAKE" Relationship="FoodChapterModel.FK_CAKE_FLAVORS_CAKES" FromRole="CAKE_FLAVORS" ToRole="CAKE" />
+    <NavigationProperty Name="FLAVOR" Relationship="FoodChapterModel.FK_CAKE_FLAVORS_FLAVOR" FromRole="CAKE_FLAVORS" ToRole="FLAVOR" />
+  </EntityType>
+  <EntityType Name="CAKE_IMAGES">
+    <Key>
+      <PropertyRef Name="CAKE_IMAGE_ID" />
+    </Key>
+    <Property Name="CAKE_IMAGE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CAKE_ID" Type="Int32" />
+    <Property Name="IMAGE_PATH" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ORDER_ID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CAKE_TAGS">
+    <Key>
+      <PropertyRef Name="TAG_ID" />
+    </Key>
+    <Property Name="TAG_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CAKE_ID" Type="Int32" />
+    <Property Name="TAG_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <NavigationProperty Name="CAKE" Relationship="FoodChapterModel.FK_CAKE_TAGS_CAKES" FromRole="CAKE_TAGS" ToRole="CAKE" />
+  </EntityType>
+  <EntityType Name="CAKE_TIERS">
+    <Key>
+      <PropertyRef Name="CAKE_TIER_ID" />
+    </Key>
+    <Property Name="CAKE_TIER_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CAKE_ID" Type="Int32" />
+    <Property Name="TIER_ORDER" Type="Int32" />
+    <Property Name="MIN_WEIGHT" Type="Int32" />
+    <Property Name="MAX_WEIGHT" Type="Int32" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <NavigationProperty Name="CAKE" Relationship="FoodChapterModel.FK_CAKE_TIERS_CAKES" FromRole="CAKE_TIERS" ToRole="CAKE" />
+  </EntityType>
+  <EntityType Name="CAKE_TYPES">
+    <Key>
+      <PropertyRef Name="CAKE_TYPE_ID" />
+    </Key>
+    <Property Name="CAKE_TYPE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="CAKE">
+    <Key>
+      <PropertyRef Name="CAKE_ID" />
+    </Key>
+    <Property Name="CAKE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VENDOR_ID" Type="Int32" />
+    <Property Name="NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="MIN_WEIGHT" Type="Int32" />
+    <Property Name="MAX_WEIGHT" Type="Int32" />
+    <Property Name="MIN_TIERS" Type="Int32" />
+    <Property Name="MAX_TIERS" Type="Int32" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ESTIMATED_TIME" Type="Int32" />
+    <Property Name="PRICE" Type="Int32" />
+    <Property Name="DELIVERY" Type="Boolean" />
+    <Property Name="IS_CUSTOMIZABLE" Type="Int32" />
+    <Property Name="TYPE_ID" Type="Int32" />
+    <Property Name="ADDITIONAL_PRICE" Type="Int32" />
+    <Property Name="CAKE_PHOTO" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <Property Name="IS_APPROVED" Type="Boolean" />
+    <Property Name="APPROVED_BY" Type="Int32" />
+    <Property Name="APPROVED_ON" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="CAKE_CATEGORIES" Relationship="FoodChapterModel.FK_CAKES_TYPES" FromRole="CAKE" ToRole="CAKE_CATEGORIES" />
+    <NavigationProperty Name="CAKE_EVENTS" Relationship="FoodChapterModel.FK_CAKE_EVENTS_CAKES" FromRole="CAKE" ToRole="CAKE_EVENTS" />
+    <NavigationProperty Name="CAKE_FLAVORS" Relationship="FoodChapterModel.FK_CAKE_FLAVORS_CAKES" FromRole="CAKE" ToRole="CAKE_FLAVORS" />
+    <NavigationProperty Name="CAKE_TAGS" Relationship="FoodChapterModel.FK_CAKE_TAGS_CAKES" FromRole="CAKE" ToRole="CAKE_TAGS" />
+    <NavigationProperty Name="CAKE_TIERS" Relationship="FoodChapterModel.FK_CAKE_TIERS_CAKES" FromRole="CAKE" ToRole="CAKE_TIERS" />
+    <NavigationProperty Name="VENDOR" Relationship="FoodChapterModel.FK_CAKES_VENDORS" FromRole="CAKE" ToRole="VENDOR" />
+  </EntityType>
+  <EntityType Name="CATEGORY">
+    <Key>
+      <PropertyRef Name="CATEGORY_ID" />
+    </Key>
+    <Property Name="CATEGORY_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="SUB_CATEGORIES" Relationship="FoodChapterModel.FK_SUB_CATEGORIES_CATEGORY" FromRole="CATEGORY" ToRole="SUB_CATEGORIES" />
+  </EntityType>
+  <EntityType Name="EMAIL_DATA">
+    <Key>
+      <PropertyRef Name="EMAIL_DATA_ID" />
+    </Key>
+    <Property Name="EMAIL_DATA_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MESSAGE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MAILED_ON" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="EVENT">
+    <Key>
+      <PropertyRef Name="EVENT_ID" />
+    </Key>
+    <Property Name="EVENT_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <NavigationProperty Name="CAKE_EVENTS" Relationship="FoodChapterModel.FK_CAKE_EVENTS_EVENTS" FromRole="EVENT" ToRole="CAKE_EVENTS" />
+  </EntityType>
+  <EntityType Name="FLAVOR">
+    <Key>
+      <PropertyRef Name="FLAVOR_ID" />
+    </Key>
+    <Property Name="FLAVOR_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <NavigationProperty Name="CAKE_FLAVORS" Relationship="FoodChapterModel.FK_CAKE_FLAVORS_FLAVOR" FromRole="FLAVOR" ToRole="CAKE_FLAVORS" />
+  </EntityType>
+  <EntityType Name="INQUIRY">
+    <Key>
+      <PropertyRef Name="INQUIRY_ID" />
+    </Key>
+    <Property Name="INQUIRY_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USER_ID" Type="Int32" />
+    <Property Name="OBJECT_ID" Type="Int32" />
+    <Property Name="INQUIRY_TIME" Type="DateTime" Precision="3" />
+    <Property Name="INQUIRY_TYPE_ID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="INQUIRY_TYPE">
+    <Key>
+      <PropertyRef Name="INQUIRY_TYPE_ID" />
+    </Key>
+    <Property Name="INQUIRY_TYPE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="ITEM_TYPES">
+    <Key>
+      <PropertyRef Name="ITEM_TYPE_ID" />
+    </Key>
+    <Property Name="ITEM_TYPE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ORDER_DETAILS" Relationship="FoodChapterModel.FK_ORDER_DETAILS_ITEM_TYPES" FromRole="ITEM_TYPES" ToRole="ORDER_DETAILS" />
+  </EntityType>
+  <EntityType Name="ORDER_DETAILS">
+    <Key>
+      <PropertyRef Name="ORDER_DETAIL_ID" />
+    </Key>
+    <Property Name="ORDER_DETAIL_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ORDER_ID" Type="Int32" />
+    <Property Name="VENDOR_ID" Type="Int32" />
+    <Property Name="ITEM_ID" Type="Int32" />
+    <Property Name="ITEM_TYPE" Type="Int32" />
+    <Property Name="QUANTITY" Type="Int32" />
+    <Property Name="IS_DELIVERED" Type="Boolean" />
+    <Property Name="IS_REJECTED" Type="Boolean" />
+    <Property Name="REJECTED_REASON" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DISCOUNT" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="IS_CANCELLED" Type="Boolean" />
+    <NavigationProperty Name="ITEM_TYPES" Relationship="FoodChapterModel.FK_ORDER_DETAILS_ITEM_TYPES" FromRole="ORDER_DETAILS" ToRole="ITEM_TYPES" />
+    <NavigationProperty Name="ORDER" Relationship="FoodChapterModel.FK_ORDER_DETAILS_ORDER" FromRole="ORDER_DETAILS" ToRole="ORDER" />
+  </EntityType>
+  <EntityType Name="ORDER_STATUS">
+    <Key>
+      <PropertyRef Name="ORDER_STATUS_ID" />
+    </Key>
+    <Property Name="ORDER_STATUS_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="ORDER">
+    <Key>
+      <PropertyRef Name="ORDER_ID" />
+    </Key>
+    <Property Name="ORDER_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CUSTOMER_ID" Type="Int32" />
+    <Property Name="STATUS_ID" Type="Int32" />
+    <Property Name="ADDRESS" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CONTACT_NO" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="GREETINGS" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TOTAL_AMOUNT" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="SHIPPING_CHARGES" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="TOTAL_DISCOUNT" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="FINAL_BILL" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="REJECTED_REASON" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CUSTOMER_NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ORDER_DETAILS" Relationship="FoodChapterModel.FK_ORDER_DETAILS_ORDER" FromRole="ORDER" ToRole="ORDER_DETAILS" />
+  </EntityType>
+  <EntityType Name="PRODUCT_TAGS">
+    <Key>
+      <PropertyRef Name="TAG_ID" />
+    </Key>
+    <Property Name="TAG_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PRODUCT_ID" Type="Int32" />
+    <Property Name="TAG_NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <NavigationProperty Name="PRODUCT" Relationship="FoodChapterModel.FK_PRODUCT_TAGS_PRODUCTS" FromRole="PRODUCT_TAGS" ToRole="PRODUCT" />
+  </EntityType>
+  <EntityType Name="PRODUCT">
+    <Key>
+      <PropertyRef Name="PRODUCT_ID" />
+    </Key>
+    <Property Name="PRODUCT_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VENDOR_ID" Type="Int32" Nullable="false" />
+    <Property Name="PRODUCT_SUB_CATEGORY_ID" Type="Int32" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="TIME_REQUIRED" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PRICE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SERVES" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DELIVERY" Type="Boolean" />
+    <Property Name="IS_ACTIVE" Type="Int32" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="PRODUCT_PHOTO" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IS_APPROVED" Type="Boolean" />
+    <Property Name="APPROVED_BY" Type="Int32" />
+    <Property Name="APPROVED_ON" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="PRODUCT_TAGS" Relationship="FoodChapterModel.FK_PRODUCT_TAGS_PRODUCTS" FromRole="PRODUCT" ToRole="PRODUCT_TAGS" />
+    <NavigationProperty Name="SUB_CATEGORIES" Relationship="FoodChapterModel.FK_PRODUCTS_PRODUCT_SUB_CATEGORY" FromRole="PRODUCT" ToRole="SUB_CATEGORIES" />
+    <NavigationProperty Name="VENDOR" Relationship="FoodChapterModel.FK_PRODUCTS_VENDORS" FromRole="PRODUCT" ToRole="VENDOR" />
+  </EntityType>
+  <EntityType Name="SUB_CATEGORIES">
+    <Key>
+      <PropertyRef Name="SUB_CATEGORY_ID" />
+    </Key>
+    <Property Name="SUB_CATEGORY_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CATEGORY_ID" Type="Int32" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="VENDOR_ID" Type="Int32" />
+    <NavigationProperty Name="CATEGORY" Relationship="FoodChapterModel.FK_SUB_CATEGORIES_CATEGORY" FromRole="SUB_CATEGORIES" ToRole="CATEGORY" />
+    <NavigationProperty Name="PRODUCTS" Relationship="FoodChapterModel.FK_PRODUCTS_PRODUCT_SUB_CATEGORY" FromRole="SUB_CATEGORIES" ToRole="PRODUCT" />
+  </EntityType>
+  <EntityType Name="USER_TYPES">
+    <Key>
+      <PropertyRef Name="USER_TYPE_ID" />
+    </Key>
+    <Property Name="USER_TYPE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="USERS" Relationship="FoodChapterModel.FK_USERS_USER_TYPES" FromRole="USER_TYPES" ToRole="USER" />
+  </EntityType>
+  <EntityType Name="USER">
+    <Key>
+      <PropertyRef Name="USER_ID" />
+    </Key>
+    <Property Name="USER_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USER_TYPE" Type="Int32" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PHONE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <NavigationProperty Name="USER_TYPES" Relationship="FoodChapterModel.FK_USERS_USER_TYPES" FromRole="USER" ToRole="USER_TYPES" />
+  </EntityType>
+  <EntityType Name="VENDOR_CATEGORIES">
+    <Key>
+      <PropertyRef Name="VENDOR_CATEGORY_ID" />
+    </Key>
+    <Property Name="VENDOR_CATEGORY_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CATEGORY_ID" Type="Int32" />
+    <Property Name="VENDOR_ID" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <NavigationProperty Name="VENDOR" Relationship="FoodChapterModel.FK_VENDOR_CATEGORIES_VENDORS" FromRole="VENDOR_CATEGORIES" ToRole="VENDOR" />
+  </EntityType>
+  <EntityType Name="VENDOR_REVIEW">
+    <Key>
+      <PropertyRef Name="REVIEW_ID" />
+    </Key>
+    <Property Name="REVIEW_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VENDOR_ID" Type="Int32" />
+    <Property Name="CUSTOMER_ID" Type="Int32" />
+    <Property Name="RATING" Type="Int32" />
+    <Property Name="REVIEW" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="VENDOR">
+    <Key>
+      <PropertyRef Name="VENDOR_ID" />
+    </Key>
+    <Property Name="VENDOR_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FIRST_NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MIDDLE_NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="LAST_NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="BUSINESS_ENTITY_NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PASSWORD" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PERSONAL_PHONE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PRIMARY_WORKSPACE_PHONE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SECONDARY_WORKSPACE_PHONE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PERSONAL_ADDRESS" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="BUSINESS_ADDRESS" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CNIC" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="FEATURED" Type="Boolean" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PROFILE_IMAGE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DELIVERY" Type="Boolean" />
+    <Property Name="UNIQUE_ID" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CREATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CREATED_BY" Type="Int32" />
+    <Property Name="UPDATED_ON" Type="DateTime" Precision="3" />
+    <Property Name="UPDATED_BY" Type="Int32" />
+    <Property Name="IS_ACTIVE" Type="Boolean" />
+    <Property Name="IS_APPROVED" Type="Boolean" />
+    <Property Name="APPROVED_BY" Type="Int32" />
+    <Property Name="APPROVED_ON" Type="DateTime" Precision="3" />
+    <Property Name="CNIC_IMAGE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PERSONAL_IMAGE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CAKES" Relationship="FoodChapterModel.FK_CAKES_VENDORS" FromRole="VENDOR" ToRole="CAKE" />
+    <NavigationProperty Name="PRODUCTS" Relationship="FoodChapterModel.FK_PRODUCTS_VENDORS" FromRole="VENDOR" ToRole="PRODUCT" />
+    <NavigationProperty Name="VENDOR_CATEGORIES" Relationship="FoodChapterModel.FK_VENDOR_CATEGORIES_VENDORS" FromRole="VENDOR" ToRole="VENDOR_CATEGORIES" />
+  </EntityType>
+  <Association Name="FK_CAKES_TYPES">
+    <End Type="FoodChapterModel.CAKE_CATEGORIES" Role="CAKE_CATEGORIES" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.CAKE" Role="CAKE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CAKE_CATEGORIES">
+        <PropertyRef Name="CAKE_CATEGORY_ID" />
+      </Principal>
+      <Dependent Role="CAKE">
+        <PropertyRef Name="TYPE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CAKE_EVENTS_CAKES">
+    <End Type="FoodChapterModel.CAKE" Role="CAKE" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.CAKE_EVENTS" Role="CAKE_EVENTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CAKE">
+        <PropertyRef Name="CAKE_ID" />
+      </Principal>
+      <Dependent Role="CAKE_EVENTS">
+        <PropertyRef Name="CAKE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CAKE_EVENTS_EVENTS">
+    <End Type="FoodChapterModel.EVENT" Role="EVENT" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.CAKE_EVENTS" Role="CAKE_EVENTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EVENT">
+        <PropertyRef Name="EVENT_ID" />
+      </Principal>
+      <Dependent Role="CAKE_EVENTS">
+        <PropertyRef Name="EVENT_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CAKE_FLAVORS_CAKES">
+    <End Type="FoodChapterModel.CAKE" Role="CAKE" Multiplicity="1" />
+    <End Type="FoodChapterModel.CAKE_FLAVORS" Role="CAKE_FLAVORS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CAKE">
+        <PropertyRef Name="CAKE_ID" />
+      </Principal>
+      <Dependent Role="CAKE_FLAVORS">
+        <PropertyRef Name="CAKE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CAKE_FLAVORS_FLAVOR">
+    <End Type="FoodChapterModel.FLAVOR" Role="FLAVOR" Multiplicity="1" />
+    <End Type="FoodChapterModel.CAKE_FLAVORS" Role="CAKE_FLAVORS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FLAVOR">
+        <PropertyRef Name="FLAVOR_ID" />
+      </Principal>
+      <Dependent Role="CAKE_FLAVORS">
+        <PropertyRef Name="FLAVOR_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CAKE_TAGS_CAKES">
+    <End Type="FoodChapterModel.CAKE" Role="CAKE" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.CAKE_TAGS" Role="CAKE_TAGS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CAKE">
+        <PropertyRef Name="CAKE_ID" />
+      </Principal>
+      <Dependent Role="CAKE_TAGS">
+        <PropertyRef Name="CAKE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CAKE_TIERS_CAKES">
+    <End Type="FoodChapterModel.CAKE" Role="CAKE" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.CAKE_TIERS" Role="CAKE_TIERS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CAKE">
+        <PropertyRef Name="CAKE_ID" />
+      </Principal>
+      <Dependent Role="CAKE_TIERS">
+        <PropertyRef Name="CAKE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CAKES_VENDORS">
+    <End Type="FoodChapterModel.VENDOR" Role="VENDOR" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.CAKE" Role="CAKE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VENDOR">
+        <PropertyRef Name="VENDOR_ID" />
+      </Principal>
+      <Dependent Role="CAKE">
+        <PropertyRef Name="VENDOR_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SUB_CATEGORIES_CATEGORY">
+    <End Type="FoodChapterModel.CATEGORY" Role="CATEGORY" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.SUB_CATEGORIES" Role="SUB_CATEGORIES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CATEGORY">
+        <PropertyRef Name="CATEGORY_ID" />
+      </Principal>
+      <Dependent Role="SUB_CATEGORIES">
+        <PropertyRef Name="CATEGORY_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ORDER_DETAILS_ITEM_TYPES">
+    <End Type="FoodChapterModel.ITEM_TYPES" Role="ITEM_TYPES" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.ORDER_DETAILS" Role="ORDER_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ITEM_TYPES">
+        <PropertyRef Name="ITEM_TYPE_ID" />
+      </Principal>
+      <Dependent Role="ORDER_DETAILS">
+        <PropertyRef Name="ITEM_TYPE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ORDER_DETAILS_ORDER">
+    <End Type="FoodChapterModel.ORDER" Role="ORDER" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.ORDER_DETAILS" Role="ORDER_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ORDER">
+        <PropertyRef Name="ORDER_ID" />
+      </Principal>
+      <Dependent Role="ORDER_DETAILS">
+        <PropertyRef Name="ORDER_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PRODUCT_TAGS_PRODUCTS">
+    <End Type="FoodChapterModel.PRODUCT" Role="PRODUCT" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.PRODUCT_TAGS" Role="PRODUCT_TAGS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCT">
+        <PropertyRef Name="PRODUCT_ID" />
+      </Principal>
+      <Dependent Role="PRODUCT_TAGS">
+        <PropertyRef Name="PRODUCT_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PRODUCTS_PRODUCT_SUB_CATEGORY">
+    <End Type="FoodChapterModel.SUB_CATEGORIES" Role="SUB_CATEGORIES" Multiplicity="1" />
+    <End Type="FoodChapterModel.PRODUCT" Role="PRODUCT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUB_CATEGORIES">
+        <PropertyRef Name="SUB_CATEGORY_ID" />
+      </Principal>
+      <Dependent Role="PRODUCT">
+        <PropertyRef Name="PRODUCT_SUB_CATEGORY_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PRODUCTS_VENDORS">
+    <End Type="FoodChapterModel.VENDOR" Role="VENDOR" Multiplicity="1" />
+    <End Type="FoodChapterModel.PRODUCT" Role="PRODUCT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VENDOR">
+        <PropertyRef Name="VENDOR_ID" />
+      </Principal>
+      <Dependent Role="PRODUCT">
+        <PropertyRef Name="VENDOR_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_USERS_USER_TYPES">
+    <End Type="FoodChapterModel.USER_TYPES" Role="USER_TYPES" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.USER" Role="USER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USER_TYPES">
+        <PropertyRef Name="USER_TYPE_ID" />
+      </Principal>
+      <Dependent Role="USER">
+        <PropertyRef Name="USER_TYPE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VENDOR_CATEGORIES_VENDORS">
+    <End Type="FoodChapterModel.VENDOR" Role="VENDOR" Multiplicity="0..1" />
+    <End Type="FoodChapterModel.VENDOR_CATEGORIES" Role="VENDOR_CATEGORIES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VENDOR">
+        <PropertyRef Name="VENDOR_ID" />
+      </Principal>
+      <Dependent Role="VENDOR_CATEGORIES">
+        <PropertyRef Name="VENDOR_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="SP_GET_VENDOR_DETAILS_Result">
+    <Property Type="Int32" Name="VENDOR_ID" Nullable="false" />
+    <Property Type="String" Name="FIRST_NAME" Nullable="true" />
+    <Property Type="String" Name="MIDDLE_NAME" Nullable="true" />
+    <Property Type="String" Name="LAST_NAME" Nullable="true" />
+    <Property Type="String" Name="BUSINESS_ENTITY_NAME" Nullable="true" />
+    <Property Type="String" Name="EMAIL" Nullable="true" />
+    <Property Type="String" Name="PASSWORD" Nullable="true" />
+    <Property Type="String" Name="PERSONAL_PHONE" Nullable="true" />
+    <Property Type="String" Name="PRIMARY_WORKSPACE_PHONE" Nullable="true" />
+    <Property Type="String" Name="SECONDARY_WORKSPACE_PHONE" Nullable="true" />
+    <Property Type="String" Name="PERSONAL_ADDRESS" Nullable="true" />
+    <Property Type="String" Name="BUSINESS_ADDRESS" Nullable="true" />
+    <Property Type="String" Name="CNIC" Nullable="true" />
+    <Property Type="Boolean" Name="FEATURED" Nullable="true" />
+    <Property Type="String" Name="DESCRIPTION" Nullable="true" />
+    <Property Type="String" Name="PROFILE_IMAGE" Nullable="true" />
+    <Property Type="Boolean" Name="DELIVERY" Nullable="true" />
+    <Property Type="String" Name="UNIQUE_ID" Nullable="true" />
+    <Property Type="DateTime" Name="CREATED_ON" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="CREATED_BY" Nullable="true" />
+    <Property Type="DateTime" Name="UPDATED_ON" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="UPDATED_BY" Nullable="true" />
+    <Property Type="Boolean" Name="IS_ACTIVE" Nullable="true" />
+    <Property Type="Boolean" Name="IS_APPROVED" Nullable="true" />
+    <Property Type="Int32" Name="APPROVED_BY" Nullable="true" />
+    <Property Type="DateTime" Name="APPROVED_ON" Nullable="true" Precision="23" />
+    <Property Type="String" Name="CNIC_IMAGE" Nullable="true" />
+    <Property Type="String" Name="PERSONAL_IMAGE" Nullable="true" />
+    <Property Type="Boolean" Name="CAKES_SPECIALITY" Nullable="true" />
+    <Property Type="Boolean" Name="FOODS_SPECIALITY" Nullable="true" />
+    <Property Type="Boolean" Name="FROZEN_FOODS_SPECIALITY" Nullable="true" />
+    <Property Type="Boolean" Name="DESSERTS_SPECIALITY" Nullable="true" />
+  </ComplexType>
+</Schema>

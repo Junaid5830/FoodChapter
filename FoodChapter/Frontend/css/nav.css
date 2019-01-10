@@ -1,0 +1,91 @@
+.navbar_1
+{
+    display:none;
+}
+.blur {
+  filter: blur(4px);
+}
+#navbar1 {
+  position: fixed;
+  z-index: 5;
+  display:none;
+  left: 0 !important;
+  float: left;
+  width: 100%;
+      /*background: #0000007a;*/
+  height:100%;
+}
+#navbar1 ul {
+  padding: 0;
+  list-style: none;
+}
+#navbar1 li {
+  display: none;
+  position: relative;
+  top: 5rem;
+  left: -40rem;
+  padding: 0em 3rem;
+}
+#navbar1 a {
+  font-size: 3.5rem;
+  transition: all 0.3s ease;
+}
+#navbar1 a:hover {
+}
+#header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  transition: all 0.5s ease;
+  text-align: center;
+  user-select: none;
+}
+#menu-toggle {
+  position: fixed;
+  float: left;
+  left: 0;
+  top: 40px;
+  z-index: 10;
+  padding: 2rem;
+  font-size: 3.2rem;
+  cursor: pointer;
+  display:none;
+}
+#overlay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: none;
+  z-index: 3;
+  background: rgba(0,0,0,0.5);
+}
+@media only screen and (max-width: 767px) {
+    .navbar
+    {
+        display:none;
+    }
+  #menu-toggle {
+    font-size: 12vw;
+    display:block;
+  }
+  #header {
+    font-size: 8vw;
+  }
+  #navbar1
+  {
+      display:block;
+  }
+  #navbar1 li {
+        top: 25vw;
+    padding:4px 4em;
+  }
+  #navbar1 a {
+    font-size: 3.5vw;
+  }
+  .navbar_1
+  {
+      display:block;
+  }
+}

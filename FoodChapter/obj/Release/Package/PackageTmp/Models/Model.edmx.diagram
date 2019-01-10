@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="44526dcf0a804423a64f107e80fe4cbe" Name="Diagram1" ZoomLevel="59">
+        <EntityTypeShape EntityType="FoodChapterModel.ADMIN" Width="1.5" PointX="10.75" PointY="5.75" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_CATEGORIES" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_CUSTOMIZE_DETAIL" Width="1.5" PointX="10.75" PointY="9.75" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_EVENTS" Width="1.5" PointX="8.25" PointY="15.375" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_FLAVORS" Width="1.5" PointX="8.25" PointY="7.25" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_TAGS" Width="1.5" PointX="5.25" PointY="16.375" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_TIERS" Width="1.5" PointX="5.25" PointY="20.625" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_TYPES" Width="1.5" PointX="2.75" PointY="6.75" />
+        <EntityTypeShape EntityType="FoodChapterModel.CATEGORY" Width="1.5" PointX="1.5" PointY="2.5" />
+        <EntityTypeShape EntityType="FoodChapterModel.EVENT" Width="1.5" PointX="6" PointY="24.625" />
+        <EntityTypeShape EntityType="FoodChapterModel.FLAVOR" Width="1.5" PointX="6" PointY="7.625" />
+        <EntityTypeShape EntityType="FoodChapterModel.ITEM_TYPES" Width="1.5" PointX="5.75" PointY="28.5" />
+        <EntityTypeShape EntityType="FoodChapterModel.ORDER_DETAILS" Width="1.5" PointX="8" PointY="1.625" />
+        <EntityTypeShape EntityType="FoodChapterModel.ORDER_STATUS" Width="1.5" PointX="12.75" PointY="5.75" />
+        <EntityTypeShape EntityType="FoodChapterModel.PRODUCT_TAGS" Width="1.5" PointX="8.25" PointY="11.5" />
+        <EntityTypeShape EntityType="FoodChapterModel.SUB_CATEGORIES" Width="1.5" PointX="3.75" PointY="2.375" />
+        <EntityTypeShape EntityType="FoodChapterModel.USER_TYPES" Width="1.5" PointX="10.75" PointY="1.875" />
+        <EntityTypeShape EntityType="FoodChapterModel.USER" Width="1.5" PointX="13" PointY="1" />
+        <EntityTypeShape EntityType="FoodChapterModel.VENDOR_CATEGORIES" Width="1.5" PointX="3" PointY="23.75" />
+        <EntityTypeShape EntityType="FoodChapterModel.VENDOR_REVIEW" Width="1.5" PointX="12.75" PointY="8.75" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKE_EVENTS_EVENTS" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKE_FLAVORS_FLAVOR" />
+        <AssociationConnector Association="FoodChapterModel.FK_SUB_CATEGORIES_CATEGORY" />
+        <AssociationConnector Association="FoodChapterModel.FK_ORDER_DETAILS_ITEM_TYPES" />
+        <AssociationConnector Association="FoodChapterModel.FK_USERS_USER_TYPES" />
+        <EntityTypeShape EntityType="FoodChapterModel.ORDER" Width="1.5" PointX="10.375" PointY="14" />
+        <AssociationConnector Association="FoodChapterModel.FK_ORDER_DETAILS_ORDER" />
+        <EntityTypeShape EntityType="FoodChapterModel.PRODUCT" Width="1.5" PointX="6" PointY="11" />
+        <AssociationConnector Association="FoodChapterModel.FK_PRODUCT_TAGS_PRODUCTS" />
+        <AssociationConnector Association="FoodChapterModel.FK_PRODUCTS_PRODUCT_SUB_CATEGORY" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE" Width="1.5" PointX="3" PointY="9.25" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKES_TYPES" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKE_EVENTS_CAKES" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKE_FLAVORS_CAKES" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKE_TAGS_CAKES" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKE_TIERS_CAKES" />
+        <EntityTypeShape EntityType="FoodChapterModel.VENDOR" Width="1.5" PointX="0.75" PointY="14.25" />
+        <AssociationConnector Association="FoodChapterModel.FK_CAKES_VENDORS" />
+        <AssociationConnector Association="FoodChapterModel.FK_PRODUCTS_VENDORS" />
+        <AssociationConnector Association="FoodChapterModel.FK_VENDOR_CATEGORIES_VENDORS" />
+        <EntityTypeShape EntityType="FoodChapterModel.EMAIL_DATA" Width="1.5" PointX="13.375" PointY="11.75" />
+        <EntityTypeShape EntityType="FoodChapterModel.CAKE_IMAGES" Width="1.5" PointX="12.375" PointY="14.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

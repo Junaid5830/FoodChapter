@@ -1,0 +1,236 @@
+.container, .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.container, .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+}
+.bw-form-newsletter .newsletter-outer {
+    margin-top: 56px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.newsletter {
+    box-sizing: border-box;
+    padding: 15px 12px;
+    background-color: #F1D3D5;
+    text-align: center;
+    position: relative;
+    z-index: 1000;
+}
+.bw-form-newsletter h6 {
+    display: inline-block;
+    margin: 10px 0;
+}
+h6 {
+    font-size: 15px;
+    line-height: 15px;
+}
+h6, h7, label {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #262626;
+}
+h3, h6 {
+    font-weight: 700;
+}
+.newsletter span {
+    padding-right: 2em;
+    font-size: .9em;
+    padding-left: 5px;
+}
+.btn-bw, .btn-bw-spacer, .light {
+    font-weight: 400;
+}
+.newsletter form {
+    display: inline-block;
+}
+.inline-block {
+    display: inline-block;
+}
+.newsletter form input {
+    background-color: #fff;
+    width: 230px;
+    padding: 9px 11px 11px;
+    border: 0;
+    outline: 0;
+    border-radius: 2px;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak, .ng-hide:not(.ng-hide-animate) {
+    display: none !important;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+.btn-bw, .footer {
+    font-family: Brandon;
+}
+.btn-bw, .btn-bw-spacer, .light {
+    font-weight: 400;
+}
+.btn-bw, .btn-lg, .btn-sm, .btn-xs {
+    border-radius: 0;
+}
+.btn-bw-default {
+    color: #00897b;
+    background-color: transparent;
+    border-color: #00897b !important;
+}
+.btn-bw {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+	padding: 11px 23px !important;
+    font-size: 15px !important;
+    line-height: 15px;
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 0 12px;
+    font-size: 18px;
+    line-height: 1.3333333333;
+    border-radius: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+.newsletter .success {
+    opacity: 0;
+    top: 0;
+    left: 0;
+    height: 0;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity .5s ease-in-out;
+}
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 48px 0;
+    text-align: center;
+}
+
+.btn-bw, .footer {
+    font-family: Brandon;
+}
+
+
+img {
+    vertical-align: middle;
+}
+
+hr, img {
+    border: 0;
+}
+
+.footer .business-info {
+    display: block;
+    font-size: 17px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a {
+    background-color: transparent;
+}
+
+.footer p {
+    font-weight: normal;
+    font-family: "PT Sans" !important;
+    color: #fff;
+    font-size: 13px;
+}
+
+p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 24px;
+    text-transform: none;
+    color: #262626;
+}
+
+.bwMosaic .template-five .title, .h4, h1, h2, h4, h5, p {
+    letter-spacing: 0;
+}
+
+*, .bwMosaic * {
+    -webkit-font-smoothing: antialiased;
+}
+.footer .social-links {
+    padding: 16px 0 56px;
+}
+.footer .social-links a {
+    padding: 0 8px;
+}
+.footer .site-links {
+    list-style: none;
+    border-top: 1px solid #fff;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    justify-content: center;
+    margin: 0 16px;
+    padding: 16px 0 0;
+}
+.footer .site-links .site-links__item {
+    margin: 0 0 16px;
+}
+.footer .site-links .site-links__item .site-links__item__link {
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-family: "PT Sans";
+    color: #fff;
+    margin-right: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: normal;
+	
+}
+.footer .card-icons {
+    padding: 30px 0;
+}
+
+
+@media only screen and (min-width: 993px)
+{
+.footer .site-links {
+    justify-content: center;
+    margin: 0 auto;
+    width: 992px;
+}
+.footer .site-links .site-links__item {
+    min-width: auto;
+}
+}
+@media only screen and (min-width: 768px)
+{
+.footer .site-links {
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: left;
+}
+}
+
